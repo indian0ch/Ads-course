@@ -2,7 +2,7 @@
 using static System.Math;
 using static System.Console;
 
-namespace ex1ads1
+namespace adslab1ex1
 {
     class Program
     {
@@ -24,8 +24,8 @@ namespace ex1ads1
             else
             {
                 //Обрахунок результату для виразів
-                a = ((1 / (2 * Sin(PI + x ))) + Pow(Sin((x + y) / z), 2));
-                b = ((Cos(Pow(a, 2) * x) / 180 * PI)) / (2 * y * z);
+                a = ((1 / (2 * Sin(PI + x))) + Pow(Sin((x + y) / z), 2));
+                b = (Cos (Pow(a,2) * x) )/ (2 * y * z);
                 //виведення результату обрахунків на консоль
                 Console.WriteLine("Result of a is:" + a.ToString());
                 Console.WriteLine("Result of b is:" + b.ToString());
