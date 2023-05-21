@@ -1,3 +1,2 @@
-# ads-fesiuk-kp12
-Репозиторій для лаб з АСД
-У мене трішки відбувся збій з ГітХабом, тому лаболаторну 1 перекинув так, щоб вона була в одній папці, а не окремими файлами
+# ads-bootcamp
+Algorithms and Data Structures course repository
