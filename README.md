@@ -1,7 +1,7 @@
-# ADS Bootcamp 2022
+# DS & Algorithms Bootcamp 2022
 Was introduced to the following structures and algorithms, used some of them in a practical application to solve a certain task!
 
-Data Structures:
+# Data Structures:
 
 1) Arrays
 2) Linked Lists
@@ -12,7 +12,7 @@ Data Structures:
 7) Hash Tables
 8) Heaps
 
-Algorithms:
+# Algorithms:
 
 1) Searching Algorithms (Linear Search, Binary Search, etc.)
 2) Sorting Algorithms (Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, etc.)
