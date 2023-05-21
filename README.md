@@ -1,5 +1,5 @@
 # DS & Algorithms Bootcamp 2022
-Was introduced to the following structures and algorithms, used some of them in a practical application to solve a certain task!
+I was introduced to the following structures and algorithms, used some of them in a practical application to solve a certain task!
 
 # Data Structures:
 
